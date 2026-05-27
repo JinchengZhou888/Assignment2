@@ -1,6 +1,6 @@
-# UniCart — Full-Stack E-Commerce Shopping Cart Single-Page Application
+# UniCart — Full-Stack E-Commerce Shopping Cart Application
 
-UniCart is a production-ready, full-stack, single-page e-commerce storefront web application built as a university assignment showcase. It connects a modern React frontend with a secure Node.js Express server, backed by an SQLite relational database utilizing the Prisma ORM.
+UniCart is a production-ready, full-stack e-commerce web application built as a university assignment. It connects a modern React frontend with a secure Node.js Express server, backed by an SQLite relational database utilizing the Prisma ORM.
 
 ## 🚀 Tech Stack
 
