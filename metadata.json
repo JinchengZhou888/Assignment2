@@ -1,0 +1,8 @@
+{
+  "name": "E-Commerce Shopping Cart",
+  "description": "A full-stack e-commerce SPA built with React, Vite, Express, SQLite, and Prisma, featuring JWT authentication, role-based access, product CRUD for admins, live search, and shopping cart CRUD.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
